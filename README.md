@@ -10,13 +10,7 @@
   
 
 - 🌱 I’m currently learning React.js  
-  
-
-- ❓ Ask me about anything related to bootcamp in Singapore  
-  
-
-- ⚡ Fun fact: So far I have been typing most of the codes on my own  
-  
+   
 
 <br/>  
 
