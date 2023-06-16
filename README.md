@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ryan, a Math Olympiad & Tech Educator turned Software Engineer👨‍💻 Currently enrolling in full-time Software Engineering Bootcamp at Rocket Academy Singapore🚀</div>  
   
 
-- 🔭 Projects worked on: <br/>  
+- 🔭 Projects worked on: <br/>
 [Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App - Quizzzz](https://ryanlerler.github.io/project1-quizzzz/)  
 [Rocket Academy Software Engineering Bootcamp: Project 2: Full-Stack App (Firebase)](https://ryanlerler.github.io/)  
 [Rocket Academy Software Engineering Bootcamp: Project 3: Full-Stack App (Express.js)](https://ryanlerler.github.io/)  
