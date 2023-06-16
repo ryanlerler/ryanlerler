@@ -6,10 +6,10 @@
 ### <div align="center">I'm Ryan, a Math Olympiad & Tech Educator turned Software Engineer👨‍💻 Currently enrolling in full-time Software Engineering Bootcamp at Rocket Academy Singapore🚀</div>  
   
 
-- 🔭 I’m currently working on [Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App](https://github.com/rocketacademy/project1-bootcamp)  
+- 🔭 Projects worked on: [Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App](https://ryanlerler.github.io/project1-quizzzz/)  
   
 
-- 🌱 I’m currently learning React.js  
+- 🌱 I’m currently learning React.js, Node.js, Firebase, Express.js, SQL, Sequelize, Algorithms, and more
    
 
 <br/>  
