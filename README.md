@@ -7,12 +7,12 @@
   
 
 - 🔭 Projects worked on: <br/>
-[Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App - Quizzzz](https://ryanlerler.github.io/project1-quizzzz/)  
-[Rocket Academy Software Engineering Bootcamp: Project 2: Full-Stack App (Firebase)](https://ryanlerler.github.io/)  
-[Rocket Academy Software Engineering Bootcamp: Project 3: Full-Stack App (Express.js)](https://ryanlerler.github.io/)  
+[Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App (React) - Quizzzz](https://ryanlerler.github.io/project1-quizzzz/)  
+[Rocket Academy Software Engineering Bootcamp: Project 2: Full-Stack App (React + Firebase) - Fakebook]([https://ryanlerler.github.io/](https://fakebook-4bdfb.web.app/)
+[Rocket Academy Software Engineering Bootcamp: Project 3: Full-Stack App (React + Express + Sequelize)](https://ryanlerler.github.io/)  
 [Rocket Academy Software Engineering Bootcamp: Capstone: Full-Stack App](https://ryanlerler.github.io/)    
 
-- 🌱 I’m currently learning React.js, Node.js, Firebase, Express.js, SQL, Sequelize, Algorithms, and more
+- 🌱 I’m currently learning PostgreSQL, Express.js, React.js, Node.js, Sequelize, SQL, Firebase, Algorithms, and more
    
 
 <br/>  
