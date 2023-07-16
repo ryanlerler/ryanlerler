@@ -1,19 +1,25 @@
 <div align="center">
-<img src="https://i.imgur.com/e1GiTAM.png" align="center" style="width: 100%;" />
+<img src="https://i.imgur.com/e1GiTAM.png" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Ryan, a Math Olympiad & Tech Educator turned Software Engineer👨‍💻 Currently enrolling in full-time Software Engineering Bootcamp at Rocket Academy Singapore🚀</div>  
+### <div align="center">I'm Ryan, a Math Olympiad & Tech Educator turned Software Engineer👨‍💻 Currently enrolling in full-time Software Engineering Bootcamp at Rocket Academy Singapore🚀
+</div>  
   
 
-- 🔭 Projects worked on: <br/>
-Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App (React) - [Quizzzz] (https://ryanlerler.github.io/project1-quizzzz/)
-Rocket Academy Software Engineering Bootcamp: Project 2: Full-Stack App (React + Firebase) - [Fakebook] (https://fakebook-4bdfb.web.app/)
-Rocket Academy Software Engineering Bootcamp: Project 3: Full-Stack App (React + Express + Sequelize) - [Coming soon] (https://ryanlerler.github.io/)  
-Rocket Academy Software Engineering Bootcamp: Capstone: Full-Stack App - [Coming soon] (https://ryanlerler.github.io/)   
+- 🔭 Projects worked on:
 
-- 🌱 I’m currently learning PostgreSQL, Express.js, React.js, Node.js, Sequelize, SQL, Firebase, Algorithms, and more
-   
+Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App (React) - [Quizzzz](https://ryanlerler.github.io/project1-quizzzz/) 
+
+Rocket Academy Software Engineering Bootcamp: Project 2: Full-Stack App (React + Firebase) - [Fakebook](https://fakebook-4bdfb.web.app/) 
+
+Rocket Academy Software Engineering Bootcamp: Project 3: Full-Stack App (React + Express + Sequelize) - [Coming soon](https://ryanlerler.github.io/)
+
+Rocket Academy Software Engineering Bootcamp: Capstone: Full-Stack App - [Coming soon](https://ryanlerler.github.io/)  
+  
+
+- 🌱 I’m currently learning PostgreSQL, Express.js, React.js, Node.js, Sequelize, SQL, Firebase, Algorithms, and more  
+  
 
 <br/>  
 
@@ -61,9 +67,6 @@ Rocket Academy Software Engineering Bootcamp: Capstone: Full-Stack App - [Coming
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/ryanlerler" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/ryanler" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -71,7 +74,6 @@ Rocket Academy Software Engineering Bootcamp: Capstone: Full-Stack App - [Coming
   
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ryanlerler&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
