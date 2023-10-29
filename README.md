@@ -1,25 +1,4 @@
-<div align="center">
-<img src="https://i.imgur.com/e1GiTAM.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Ryan, a Math Olympiad & Tech Educator turned Software Engineer👨‍💻 Currently enrolling in full-time Software Engineering Bootcamp at Rocket Academy Singapore🚀
-</div>  
-  
-
-- 🔭 Projects worked on:
-
-Rocket Academy Software Engineering Bootcamp: Project 1: Frontend App (React) - [Quizzzz](https://ryanlerler.github.io/project1-quizzzz/) 
-
-Rocket Academy Software Engineering Bootcamp: Project 2: Full-Stack App (React + Firebase) - [Fakebook](https://fakebook-4bdfb.web.app/) 
-
-Rocket Academy Software Engineering Bootcamp: Project 3: Full-Stack App (React + Express + Sequelize) - [Coming soon](https://ryanlerler.github.io/)
-
-Rocket Academy Software Engineering Bootcamp: Capstone: Full-Stack App - [Coming soon](https://ryanlerler.github.io/)  
-  
-
-- 🌱 I’m currently learning PostgreSQL, Express.js, React.js, Node.js, Sequelize, SQL, Firebase, Algorithms, and more  
-  
+[Portfolio](https://ryanlerler.github.io/portfolio-page-bootcamp/) 
 
 <br/>  
 
