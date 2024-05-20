@@ -1,5 +1,3 @@
-## [Portfolio](https://ryanlerler.github.io/portfolio-page-bootcamp/) 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
